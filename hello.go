@@ -2,6 +2,6 @@ package hello
 
 import "rsc.io/quote"
 
-func hello() string {
+func Hello() string {
 	return quote.Hello()
 }
